@@ -1,0 +1,45 @@
+.topbar{
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-color: rgb(100, 228, 237);
+    width: 1506px;
+    height: 300px; 
+    
+}
+
+.robot{
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: left;
+    font-size: 80;
+    text-decoration: solid;
+    display:flex;
+
+}
+
+.app{
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: right;
+    display: flex;
+}
+
+.web{
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: left;
+    font-size: 80;
+    text-decoration: solid;
+    display:flex;
+}
